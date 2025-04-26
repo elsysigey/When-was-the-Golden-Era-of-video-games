@@ -1,8 +1,8 @@
-# Project Documentation:#
+# Project Documentation:
 When Was the Golden Era of Video Games?
 
-## 1. Project Overview ##
-### Title:###
+## 1. Project Overview 
+### Title:
 When Was the Golden Era of Video Games?
 
 ### Objective:
