@@ -1,6 +1,40 @@
-# When-was-the-Golden-Era-of-video-games
-## Project Description
-According to Mordor Intelligence, video games are big business: the global gaming market is projected to be worth more than $300 billion by 2027. With so much money at stake, the major game publishers are hugely incentivized to create the next big hit. But are games getting better, or has the golden age of video games already passed?
+# Project Documentation:#
+When Was the Golden Era of Video Games?
 
-In this project, you'll analyze video game critic and user scores, in addition to sales data for the top 400 video games released since 1977. You'll search for a golden age of video games by identifying release years that users and critics liked best, and you'll explore the business side of gaming by looking at game sales data.
-![video_game](https://github.com/user-attachments/assets/91c69639-33d4-47f1-a23d-910e04243bf4)
+## 1. Project Overview ##
+### Title:###
+When Was the Golden Era of Video Games?
+
+### Objective:
+The project analyses historical video game sales data to determine the period when the video game industry experienced its peak, or "Golden Era," in terms of global sales.
+
+## 2. Data Collection
+Dataset:
+
+Video game sales dataset sourced from Datacamp.
+
+Contains records for over 16,000+ games, including their global sales, release year, platform, publisher, and genre.
+
+## 3. Tools and Technologies
+SQL: Data manipulation
+Jupyter Notebook: Project execution and documentation
+
+## 4. Exploratory Data Analysis (EDA)
+### Key Insights:
+
+The peak in global sales occurred between 2006 and 2010.
+
+2008 had the highest global sales, making it a strong candidate for the peak year.
+
+Nintendo dominated game sales during the peak period, with platforms like the Wii and DS performing exceptionally well.
+
+![screenshot project 1](https://github.com/user-attachments/assets/2ffbcc55-4d71-441c-85a3-946623cd5ac0)
+
+## 5. Conclusion
+The Golden Era of video games (based on global sales) was between 2006 and 2010, with 2008 being the standout year.
+
+The era was marked by innovation in gaming platforms and strong performance by industry giants like Nintendo, Sony, and Microsoft.
+
+
+
+Action and sports games were among the top-selling genres during the golden years.
