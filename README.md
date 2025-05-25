@@ -9,3 +9,20 @@
   4. Years of Peak Industry Performance – In which year(s) did the gaming industry reach its highest overall success?
      
 ## EXECUTIVE SUMMARY
+1. Nintendo dominated early generations of gaming, appearing in 7 of the top 10 best-selling games between 1985 and 2009. Wii Sports, published by Nintendo for the Wii console, was the best-selling title in the dataset.
+
+2. 1998 stands out as a critical year in gaming history, with the highest average critic score (9.32) across major titles. This coincided with the release of iconic games such as The Legend of Zelda: Ocarina of Time.
+
+3. 2008 and 2009 were commercially strong years, marked by high volumes of game releases and significant global sales, despite slightly lower average critic ratings.
+
+4. Companies like Electronic Arts, Activision, and Rockstar Games maintained a strong presence in both critical and commercial performance over the years.
+
+## RECOMMENDATIONS
+**SHOULD TECHVIA ENTER THE  MARKET**
+ 1. Techvia should enter the gaming market, but proceed with caution and a strong strategic plan due to the high level of competition.
+ 2. Techvia should aim to develop for platforms with historically high sales, such as Wii, Nintendo DS, Xbox 360, PlayStation 3 (PS3)
+ 3. Techvia should focus on game genres that have driven high sales, including: Action, Sports, Racing and Shooter
+ 4. Techvia should benchmark its game quality by targeting: High critic scores and Strong user reviews
+ 5. Continuous improvements based on feedback to boost both reputation and performance
+ 6. Techvia should strategically time its game releases during high-engagement periods, such as: Holiday seasons ,End-of-year quarters (Q4)
+
